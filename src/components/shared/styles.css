@@ -1,0 +1,105 @@
+ div{
+     padding: auto;
+     margin: auto;
+     width: 80%;
+     text-align: center;
+ }
+ 
+ nav {
+    background: lightblue;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 5px;
+  } 
+
+  ul {
+    list-style-type: none;
+    padding: auto;
+    text-align: left;
+  }
+
+  #list {
+      margin: 10px;
+      color: black;
+      background: lightcyan;
+      text-decoration: none;
+      font-size: 20px;
+      padding: 5px;
+      text-align: center;
+      border-radius: 5px;
+      
+  }
+
+  #AboutPage {
+      padding: 5px 5px 10px 5px;
+      width: 1000px;
+      margin-top: 5%;
+      text-align: center;
+      border-radius: 25px;
+      background: lightgray;
+  }
+
+  #HomePage {
+    padding: 5px 5px 10px 5px;
+    width: 50%;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 25px;
+    background: lightgray;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 18px;
+}
+
+table{
+    width:60%;
+    margin: auto;
+    padding: auto;
+}
+
+thead {
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 100px;
+}
+
+tbody {
+    padding-top: 10px;
+}
+
+td{
+    padding:2px;
+    border: solid black 1.5px;
+    border-radius: 20px;
+    background: lightgray;
+    text-align: center;
+}
+
+tr td{
+    padding-bottom: 8px;
+}
+
+#filtering{
+    padding: 5px;
+}
+
+label{
+    padding-right: 20px;
+}
+
+#discription p, h2{
+    display: inline;
+}
+
+#discription{
+    text-align: left;
+}
+
+button{
+    margin-left: 20px;
+}
